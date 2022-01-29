@@ -21,10 +21,16 @@ body{
 }
 
 div{
-    max-width: 700px;
+    max-width: 750px;
     min-height: 200px;
 }
-
+/*
+#CeV{
+    border-style: solid;
+    max-width: 550px;
+    min-height: 200px;
+}
+*/
 div h4{
     text-align: center;
     font-size: 18px;
