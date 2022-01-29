@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+img{
+    border-radius: 15%;
+    border-width: 2px;
+    border-color: rgba(3, 66, 66, 0.6);
+    border-style: solid;
+}
+
+body{
+    background-color: rgba(9, 19, 19, 0.25);
+}
+
