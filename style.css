@@ -17,5 +17,38 @@ img{
 
 body{
     background-color: rgba(9, 19, 19, 0.25);
+    margin: 2em;
 }
 
+div{
+    max-width: 800px;
+    min-height: 200px;
+}
+/*
+#CeV{
+    border-style: solid;
+    max-width: 550px;
+    min-height: 200px;
+}
+*/
+div h4{
+    text-align: center;
+    font-size: 18px;
+}
+
+div p{
+    margin-top: 50px;
+    margin-left: 150px;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+div img{
+    width: 150px;
+    float: left;
+    padding: 2.5px;
+}
+
+#Return{
+    margin-left: 150px;
+}
